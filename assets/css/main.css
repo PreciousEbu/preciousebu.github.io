@@ -1,3 +1,4 @@
+
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
 
@@ -98,7 +99,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #333;
+		color: #222;
 		font-family: "Gill Sans", sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
